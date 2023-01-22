@@ -1,0 +1,22 @@
+{
+  "name": "bava-npm-test",
+  "version": "1.0.0",
+  "description": "test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bava1/bava-npm-test.git"
+  },
+  "keywords": [
+    "bava"
+  ],
+  "author": "bava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bava1/bava-npm-test/issues"
+  },
+  "homepage": "https://github.com/bava1/bava-npm-test#readme"
+}
